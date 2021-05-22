@@ -1,0 +1,23 @@
+.segundoPiso{
+    display: flex;
+    flex-direction: row;
+    left: -25px;
+    margin: 0px 0px 0px 0px;
+    position: relative;  
+    
+}
+
+.segundoPiso{
+    display: flex;
+    flex-direction: row;
+    left: -25px;
+    margin: 0px 0px 0px 0px;
+    position: relative;  
+    
+}
+
+.lightbulb{
+    height: 130px;
+    width: 120px;
+    
+}
